@@ -13,7 +13,7 @@
     <a href="mailto:night3098game@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </div>
-<h2 align="center"><a align="center" href="https://Nighty3098.github.io/">portfolio</a></h2>
+<a align="center" href="https://Nighty3098.github.io/">portfolio</a>
 <br>
 <details>
     <summary align="center"><b>Skills</b></summary>
