@@ -12,8 +12,9 @@
     <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="mailto:night3098game@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+    <br>
+    <a href="https://Nighty3098.github.io/" target="blank"><img src="https://img.shields.io/badge/MY PORTFOLIO-c8ff56?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
 </div>
-<a align="center" href="https://Nighty3098.github.io/">portfolio</a>
 <br>
 <details>
     <summary align="center"><b>Skills</b></summary>
