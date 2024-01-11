@@ -22,8 +22,6 @@
 
 <details>
     <summary align="center"><b>Skills</b></summary>
-        <img align="left" height=200 width=200 src="penguin.gif"/>
-        <img align="right" height=200 width=200 src="coffee-cat2.gif"/>
         <h3 align="center"></h3>
         <br>
         <div class="languages" align="center">
@@ -41,8 +39,11 @@
     <div class="one" align="center">
 	<br>
 	<br>
-        <img align="left" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nighty3098&show_icons=true&locale=en&hide_border=true&no-frame=true&theme=nord" width="45%"/>
-        <img align="right" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nighty3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=nord" width="35%"/> 
+        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nighty3098&show_icons=true&locale=en&hide_border=true&no-frame=true&theme=nord" width="45%"/>
+	    <br>
+	    <br>
+	    <br>
+        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nighty3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=nord" width="35%"/> 
     </div>
 </details>
 <br>
