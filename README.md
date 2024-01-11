@@ -39,11 +39,11 @@
     <div class="one" align="center">
 	<br>
 	<br>
-        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nighty3098&show_icons=true&locale=en&hide_border=true&no-frame=true&theme=nord" width="45%"/>
+        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nighty3098&show_icons=true&locale=en&hide_border=true&no-frame=true&theme=transparent" width="45%"/>
 	    <br>
 	    <br>
 	    <br>
-        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nighty3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=nord" width="35%"/> 
+        <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nighty3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=transparent" width="35%"/> 
     </div>
 </details>
 <br>
