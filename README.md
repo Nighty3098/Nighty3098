@@ -12,8 +12,7 @@
 <div id="chat_with_me" align="center">
     <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://img.shields.io/badge/My Portfolio-%23556075.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <br>
-    <br>
-    <a href="https://discord.gg/#9707" target="blank"><img class="round" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.gg/#9707" target="blank"><img class="round" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://t.me/Night3098" target="blank"><img class="round" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="mailto:night3098game@gmail.com" target="blank"><img class="round" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img class="round" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
