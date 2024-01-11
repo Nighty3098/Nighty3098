@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css" />
 <h1 align="center">Hi</h1>
 <h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile</h3>
 <br>
