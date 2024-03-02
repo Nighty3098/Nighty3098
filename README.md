@@ -21,25 +21,11 @@
         <h3 align="center"></h3>
         <br>
         <div class="languages" align="center">
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_BASH_badge_.svg" width="5%"/>
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_C++_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_CSS_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_C_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_HTML_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_JS_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_MD_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_Python_badge_.svg" width="5%" />
+	    <img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,bash,css,html"/>
         </div>
         <h3 align="center"></h3>
         <div class="tools" align="center">
-            <!---<img src="https://skillicons.dev/icons?i=neovim,vscode,cmake,sqlite,qt,git,linux"/>--->
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_CMake_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_GIT_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_NVim_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_QT_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_SQL_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_UNIX_badge_.svg" width="5%" />
-            <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/2d03b9d9350f5b41d95c6b464135e8cb8a006ad4/bitmap_VSCode_badge_.svg" width="5%" />
+            <img src="https://skillicons.dev/icons?i=neovim,vscode,cmake,sqlite,qt,git,linux"/>
         </div>
 </details>
 <br>
