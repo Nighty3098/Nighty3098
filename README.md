@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1>
-<h3 align="center">I'm junior developer. Welcome to my GitHub profile ❤ </h3>
+<h3 align="center">I'm 17 y.o. junior developer from Novosibirsk. Welcome to my GitHub profile ❤ </h3>
 <div id="chat_with_me" align="center">
     <a href="https://discord.gg/#9707" target="blank"><img class="round" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://t.me/Night3098" target="blank"><img class="round" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
