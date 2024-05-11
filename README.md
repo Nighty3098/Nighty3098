@@ -1,5 +1,14 @@
 <h1 align="center">Hi</h1>
 <h3 align="center">I'm 17 y.o. junior developer from Novosibirsk. Welcome to my GitHub profile ❤ </h3>
+
+
+<div align="center">
+      <a href="https://github.com/Nighty3098?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nighty3098?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Nighty3098?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nighty3098?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</div>
+
 <div id="chat_with_me" align="center">
     <a href="https://discord.gg/#9707" target="blank"><img class="round" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://t.me/Night3098" target="blank"><img class="round" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
