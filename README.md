@@ -20,9 +20,9 @@
     <br><br>
     <img src="gray0_ctp_on_line.svg" width="80%"></img>
     <br><br><br><br>
-    <a href="https://discord.com/users/924996294378917938"><img src="https://lanyard-profile-readme.vercel.app/api/924996294378917938?bg=9fcc83&theme=light&hideTimestamp=false&borderRadius=30px&idleMessage=I%20Love%20Anime%20(%20づ◕‿◕%20)づ"/></a>
+    <a href="https://discord.com/users/924996294378917938"><img src="https://lanyard-profile-readme.vercel.app/api/924996294378917938?bg=8768aa&theme=light&hideTimestamp=false&borderRadius=30px&idleMessage=I%20Love%20Anime%20(%20づ◕‿◕%20)づ"/></a>
     <br>
-    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://img.shields.io/badge/My Portfolio-%23a3ca89.svg?style=for-the-badge&logo=git&logoColor=black"/></a>
+    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://img.shields.io/badge/My Portfolio-%238768aa.svg?style=for-the-badge&logo=git&logoColor=black"/></a>
 </div>
 <br>
 <details>
