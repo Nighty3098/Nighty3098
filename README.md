@@ -3,10 +3,8 @@
 
 
 <div align="center">
-      <a href="https://github.com/Nighty3098?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nighty3098?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Nighty3098?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nighty3098?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&labelColor=%230d1117">
+      <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nighty3098?style=for-the-badge&logo=%230d1117&logoColor=%230d1117&labelColor=%230d1117">
 </div>
 
 <div id="chat_with_me" align="center">
