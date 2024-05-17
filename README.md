@@ -16,6 +16,7 @@
     <a href="https://www.reddit.com/user/DEVELOPER0x31/" target="blank"><img class="round" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </div>
 <br>
+<br>
 <div id="header" align="center">
     <br><br>
     <img src="gray0_ctp_on_line.svg" width="80%"></img>
