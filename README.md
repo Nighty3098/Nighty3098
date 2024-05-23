@@ -1,8 +1,8 @@
 
 <div align="center">
-    <img src="gray0_ctp_on_line.svg" width="50%" height="300vh"></img>
+    <img src="gray0_ctp_on_line.svg" width="70%" height="400vh"></img>
     <h3 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
-    <h3 align="center" style="text-decoration: none; font-size: 21px;">I'm 17 y.o. junior developer from Novosibirsk. Welcome to my GitHub profile ❤ </h3>
+    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years. And i work with gtk, qt, telegram-api.</h3>
     <br><br><br><br>
 </div>
 
