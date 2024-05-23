@@ -40,14 +40,12 @@
 </details>
 <br>
 
-<details>
+<details align="center">
     <summary align="center"><b>GitHub stats</b></summary>
-    <div class="one" align="center">
-	<br>
-	<br>
-    <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nighty3098&show_icons=true&locale=en&hide_border=true&no-frame=false&theme=transparent" width="60%"/>
-    <br>
-    <img align="center" class="round" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nighty3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=transparent" width="45%"/>
-    </div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&theme=transparent" width="90%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&theme=transparent" width="45%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&theme=transparent" width="45%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&theme=transparent" width="45%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&theme=transparent" width="45%"/>
 </details>
 <br>
