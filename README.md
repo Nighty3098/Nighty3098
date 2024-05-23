@@ -7,9 +7,11 @@
 </div>
 
 <div align="center">
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge&color=eed49f" />
+    <br><br>
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nighty3098?style=for-the-badge&logo=apachespark&color=eed49f&logoColor=D9E0EE&labelColor=1c1c29" />
-    <br><br>
+    <br>
     <a href="https://discord.gg/6xEc5WFK"><img src="https://img.shields.io/discord/1238858182403559505.svg?label=Discord&logo=Discord&style=for-the-badge&color=f5a7a0&logoColor=FFFFFF&labelColor=1c1c29"  /></a>
     <br><br>
     <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-7dc4e4?style=for-the-badge&logo=telegram&logoColor=black" /></a>
