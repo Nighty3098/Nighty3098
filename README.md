@@ -1,9 +1,11 @@
 
 <div align="center">
-    <img src="gray0_ctp_on_line.svg" width="70%" height="400vh"></img>
+    <br><br><br><br><br><br>
+    <img src="https://github.com/bignutty/fluent-emoji/blob/main/animated/1f375.png?raw=true" ></img>
+    <br><br><br><br><br><br>
     <h3 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years. And i work with gtk, qt, telegram-api.</h3>
-    <br><br><br><br>
+    <br><br>
 </div>
 
 <div align="center">
