@@ -41,7 +41,7 @@
 </details>
 <br>
 
-<details open align="center">
+<details align="center">
     <summary align="center"><h2 align="center">GitHub stats</h2></summary>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="80%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
@@ -51,7 +51,7 @@
 </details>
 <br>
 
-<details open align="center">
+<details align="center">
 	<summary align="center"><h2 align="center">Repositories</h2></summary>
 	<div align="center">
 		<div align="center" style="display: flex;">
