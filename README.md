@@ -51,19 +51,6 @@
 </details>
 <br>
 
-<details align="center">
-	<summary align="center"><h2 align="center">Repositories</h2></summary>
-	<div align="center">
-		<div align="center" style="display: flex;">
-			<a href="https://github.com/Nighty3098/CodeKeeper" title="Project manager for developers"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=CodeKeeper&theme=dracula&border_color=61dafb&border_radius=10"></a>
-			<a href="https://github.com/Nighty3098/FinanceTrackerBot" title="Telegram bot for tracking finances"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FinanceTrackerBot&theme=dracula&border_color=61dafb&border_radius=10"></a>
-			<a href="https://github.com/Nighty3098/Nighty3098.github.io" title="My portfolio website"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=Nighty3098.github.io&theme=dracula&border_color=61dafb&border_radius=10"></a>
-			<a href="https://github.com/Nighty3098/TGSB" title="SMS bomber. TG bot service"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TGSB&theme=dracula&border_color=61dafb&border_radius=10"></a>
-			<a href="https://github.com/Nighty3098/DevDotfiles" title="Configuration files for nvim, kitty, i3 and other necessary programs"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=DevDotfiles&theme=dracula&border_color=61dafb&border_radius=10"></a>
-			<a href="https://github.com/Nighty3098/cubes" title="A simple geometric game for two players written in c++ and sfml"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=cubes&theme=dracula&border_color=61dafb&border_radius=10"></a>
-		</div>
-	</div>
-</details>
 
 <details align="center">
 	<summary align="center"><h2 align="center">Wakatime</h2></summary>
