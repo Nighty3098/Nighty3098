@@ -18,15 +18,14 @@
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://img.shields.io/badge/Reddit-f5a7a0?style=for-the-badge&logo=reddit&logoColor=black" /></a>
     <br><br><br><br>
 </div>
-<br>
-<br>
 <div id="header" align="center">
-    <a href="https://discord.com/users/924996294378917938"><img src="https://lanyard-profile-readme.vercel.app/api/924996294378917938?bg=a6e0b8&theme=light&borderRadius=30px&idleMessage=I%20Love%20Anime%20(%20づ◕‿◕%20)づ" /></a>
+    <img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/><br>
     <br>
     <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://img.shields.io/badge/My Portfolio-%23a6e0b8.svg?style=for-the-badge&logo=git&logoColor=black" /></a>
     <br><br><br><br>
 </div>
 <br>
+
 <details>
     <summary align="center"><h2 align="center">Skills</h2></summary>
         <h3 align="center"></h3>
