@@ -5,7 +5,6 @@
     <br><br><br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.</h3><br>
-    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://github.com/Nighty3098/Nighty3098/assets/154594695/99549cd1-b9eb-40dd-8358-343940e61729" /></a>
     <br><br><br>
 </div>
 
