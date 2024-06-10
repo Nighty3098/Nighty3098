@@ -1,10 +1,11 @@
 
 <div align="center">
-    <br><br><br><br><br><br>
+    <br><br><br><br>
     <img src="https://github.com/bignutty/fluent-emoji/blob/main/animated/1f375.png?raw=true" ></img>
-    <br><br><br><br><br><br>
+    <br><br><br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
-    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.</h3>
+    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.</h3><br>
+    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://github.com/Nighty3098/Nighty3098/assets/154594695/99549cd1-b9eb-40dd-8358-343940e61729" /></a>
     <br><br><br>
 </div>
 
@@ -15,47 +16,46 @@
 </div>
 <div id="header" align="center">
     <img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/><br>
-    <br>
-    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://github.com/Nighty3098/Nighty3098/assets/154594695/99549cd1-b9eb-40dd-8358-343940e61729" /></a>
 </div>
 
 <div align="center">
     <br><br>
+    <h3 align="center">Contacts</h3>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/590b5e00-799d-42f9-9f64-c5ce27daf93c" /></a>
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/44a76d71-7707-444c-a231-75f7459962cd" /></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/a3943ff9-0e9e-4c8e-8682-825e79d8bf21" /></a>
     <br><br>
 </div>
 
-<details>
-    <summary align="center"><h3 align="center">Skills</h3></summary>
-        <h3 align="center"></h3>
-        <br>
-        <div class="languages" align="center">
-	    <img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,bash,css,html" />
-        </div>
-        <h3 align="center"></h3>
-        <div class="tools" align="center">
-            <img src="https://skillicons.dev/icons?i=neovim,vscode,cmake,sqlite,qt,git,linux" />
-        </div>
-</details>
+<h3 align="center">Skills</h3>
+<div class="languages" align="center">
+	<img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,bash,css,html" />
+</div>
+<div class="tools" align="center">
+	<img src="https://skillicons.dev/icons?i=neovim,vscode,cmake,sqlite,qt,git,linux" />
+</div>
 <br>
 
+<h3 align="center">GitHub stats</h3>
+<div align="center">
+    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&theme=radical&border_radius=20&" alt="reimaginedreadme" width="80%" />
+</div>
 <details align="center">
-    <summary align="center"><h3 align="center">GitHub stats</h3></summary>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="80%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
-</details>
+<summary><h3>...</h3></summary>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="70%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
 <br>
-
+</div>
+</details>
 
 <details align="center">
 	<summary align="center"><h3 align="center">Wakatime</h3></summary>
 	<div align="center">
 		<img alt="Wakatime" src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge&color=eed49f" /><br>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=dracula" />
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=nord&layout=compact&border_radius=20" />
 	</div>
 </details>
