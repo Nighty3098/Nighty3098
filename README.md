@@ -5,29 +5,30 @@
     <br><br><br><br><br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.</h3>
-    <br><br>
+    <br><br><br>
 </div>
 
 <div align="center">
-    <br><br>
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nighty3098?style=for-the-badge&logo=apachespark&color=eed49f&logoColor=D9E0EE&labelColor=1c1c29" />
-    <br><br>
-    <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-7dc4e4?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-    <a href="mailto:night3098game@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-f5a7a0?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://img.shields.io/badge/Reddit-f5a7a0?style=for-the-badge&logo=reddit&logoColor=black" /></a>
-    <br><br><br><br>
+    <br><br><br>
 </div>
 <div id="header" align="center">
     <img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/><br>
     <br>
-    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://img.shields.io/badge/My Portfolio-%23a6e0b8.svg?style=for-the-badge&logo=git&logoColor=black" /></a>
-    <br><br><br><br>
+    <a href="https://Nighty3098.github.io/" target="blank"><img class="round" src="https://github.com/Nighty3098/Nighty3098/assets/154594695/99549cd1-b9eb-40dd-8358-343940e61729" /></a>
 </div>
-<br>
+
+<div align="center">
+    <br><br>
+    <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/590b5e00-799d-42f9-9f64-c5ce27daf93c" /></a>
+    <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/44a76d71-7707-444c-a231-75f7459962cd" /></a>
+    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/Nighty3098/assets/154594695/a3943ff9-0e9e-4c8e-8682-825e79d8bf21" /></a>
+    <br><br>
+</div>
 
 <details>
-    <summary align="center"><h2 align="center">Skills</h2></summary>
+    <summary align="center"><h3 align="center">Skills</h3></summary>
         <h3 align="center"></h3>
         <br>
         <div class="languages" align="center">
@@ -41,7 +42,7 @@
 <br>
 
 <details align="center">
-    <summary align="center"><h2 align="center">GitHub stats</h2></summary>
+    <summary align="center"><h3 align="center">GitHub stats</h3></summary>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="80%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&theme=dracula&border_radius=20&border_color=61dafb" width="40%"/>
@@ -52,7 +53,7 @@
 
 
 <details align="center">
-	<summary align="center"><h2 align="center">Wakatime</h2></summary>
+	<summary align="center"><h3 align="center">Wakatime</h3></summary>
 	<div align="center">
 		<img alt="Wakatime" src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge&color=eed49f" /><br>
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=dracula" />
