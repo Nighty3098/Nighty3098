@@ -44,10 +44,12 @@
 <br>
 <div class="tools" align="center">
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkdrop.png?raw=true" height="50px" />
 	<br>
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_obsidian.png?raw=true" height="50px" />
