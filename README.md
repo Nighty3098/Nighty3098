@@ -22,9 +22,9 @@
     <h3 align="center">Contacts</h3>
 	<a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Portfolio_Social.png?raw=true" width="150px" /></a>
     <br><br>
-    <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Telegram_Social.png?raw=true" width="150px" /></a>
-    <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_discord_Social.png?raw=true" width="150px" /></a>
-    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Reddit_Social.png?raw=true" width="150px" /></a>
+    <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="50px" /></a>
+    <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="50px" /></a>
+    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="50px" /></a>
     <br><br>
 </div>
 
