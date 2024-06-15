@@ -4,28 +4,24 @@
     <img src="https://github.com/bignutty/fluent-emoji/blob/main/animated/1f375.png?raw=true" ></img>
     <br><br><br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
-    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.</h3><br>
-    <br><br><br>
-</div>
-
-<div align="center">
+    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
+    <br>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nighty3098?style=for-the-badge&logo=apachespark&color=eed49f&logoColor=D9E0EE&labelColor=1c1c29" />
-    <br><br><br>
-</div>
-<div id="header" align="center">
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br>
+	<br><br><br>
+    <a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="120px" /></a>
+	<br><br>
 </div>
 
 <div align="center">
-    <br><br>
     <h3 align="center">Contacts</h3>
-	<a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Portfolio_Social.png?raw=true" width="150px" /></a>
     <br><br>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="50px" /></a>
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="50px" /></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="50px" /></a>
     <br><br>
+	<a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true" width="300px"/></a><br>
+	<br>
 </div>
 
 
@@ -85,3 +81,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=nord&layout=compact&border_radius=20" />
 	</div>
 </details>
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Nighty3098/Nighty3098/0a26f0c1a4845e0f6fc3afbd4ba47d43744b1f20/gray0_ctp_on_line.svg?raw=true" />
+</div>
