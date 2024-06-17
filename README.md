@@ -6,8 +6,7 @@
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
     <br>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nighty3098?style=for-the-badge&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nighty3098?style=for-the-badge&logo=apachespark&color=eed49f&logoColor=D9E0EE&labelColor=1c1c29" />
+    <a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
 	<br><br><br>
     <a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="120px" /></a>
 	<br><br>
@@ -24,7 +23,6 @@
 	<br>
 </div>
 
-
 <h3 align="center">Skills</h3>
 <div class="languages" align="center">
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" height="50px" />
@@ -35,7 +33,6 @@
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_python.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" height="50px" />
-	<!---<img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,bash,css,html,js,ts&amp;theme=dark">-->
 </div>
 <br>
 <div class="tools" align="center">
@@ -54,7 +51,6 @@
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" height="50px" />
-	<!---<img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,cmake,sqlite,mysql,qt,git,windows,linux,arch,github,notion,obsidian&amp;perline=7&amp;theme=dark">-->
 </div>
 <br>
 
