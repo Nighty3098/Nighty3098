@@ -56,7 +56,7 @@
 
 <h3 align="center">GitHub stats</h3>
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&theme=radical&border_radius=20&" alt="reimaginedreadme" width="80%" />
+    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" alt="reimaginedreadme" width="80%" />
 </div>
 <details align="center">
 <summary><h3>...</h3></summary>
@@ -73,8 +73,7 @@
 <details align="center">
 	<summary align="center"><h3 align="center">Wakatime</h3></summary>
 	<div align="center">
-		<img alt="Wakatime" src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge&color=eed49f" /><br>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=nord&layout=compact&border_radius=20" />
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=transparent&layout=compact&border_radius=20" />
 	</div>
 </details>
 
