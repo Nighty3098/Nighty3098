@@ -10,8 +10,10 @@
 	<br><br>
     <a href="https://github.com/stars/Nighty3098/lists/freelance"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Freelance.png?raw=true" width="300px"/></a>
     <br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true" width="300px"/></a><br>
+    <br>
     <a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="120px" /></a>
-	<br><br>
+    <br>
 </div>
 
 <div align="center">
@@ -21,8 +23,6 @@
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="50px" /></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="50px" /></a>
     <br><br>
-	<a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true" width="300px"/></a><br>
-	<br>
 </div>
 
 <h3 align="center">Skills</h3>
