@@ -7,7 +7,9 @@
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 year old junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
     <br>
     <a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
-	<br><br><br>
+	<br><br>
+    <a href="https://github.com/stars/Nighty3098/lists/freelance"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Freelance.png?raw=true" width="300px"/></a>
+    <br>
     <a href="https://nighty3098.github.io"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="120px" /></a>
 	<br><br>
 </div>
