@@ -1,7 +1,7 @@
 
 <div align="center">
     <br><br><br><br><br>
-    <img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" width="70%" style="border-radius: 10%" />
+    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" alt="GitRoll Profile Badge" width="70%"/></a>
     <br><br><br><br><br>
     <br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi 👻</h1>
