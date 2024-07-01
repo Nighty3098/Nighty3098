@@ -1,7 +1,7 @@
 
 <div align="center">
     <br><br><br><br><br>
-    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="git_header.png" width="70%"/></a>
+    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="git_header.png" width="96%"/></a>
     <br><br><br><br><br>
     <br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi 👻</h1>
