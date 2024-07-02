@@ -7,17 +7,18 @@
     <br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi 👻</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
-    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollButton.png" width="70%"/></a><br>
+    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
+    <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a>
     <br>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordButton.png" width="70%"/></a><br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a>
     <br>
-    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="70%" /></a>
+    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="55%" /></a>
     <br>
 </div>
 
 
 <div align="center">
-    <h3 align="center">Contacts</h3>
+    <h3 align="center">Contact with me</h3>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="50px" /></a>
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="50px" /></a>
     <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="50px" /></a>
@@ -25,7 +26,7 @@
 </div>
 
 
-<h3 align="center">Skills</h3>
+<h3 align="center">Langs</h3>
 <div class="languages" align="center">
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" height="50px" />
@@ -37,6 +38,7 @@
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" height="50px" />
 </div>
 <br>
+<h3 align="center">Tools</h3>
 <div class="tools" align="center">
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
@@ -56,13 +58,11 @@
 </div>
 <br>
 
-<h3 align="center">GitHub stats</h3>
+<details align="center">
+<summary><h3>GitHub Stats</h3></summary>
 <div align="center">
     <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" alt="reimaginedreadme" width="80%" />
-</div>
-<details align="center">
-<summary><h3>...</h3></summary>
-<div align="center">
+    <br><br><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="70%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
