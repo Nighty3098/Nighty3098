@@ -79,6 +79,45 @@
 	</div>
 </details>
 
+<details align="center">
+	<summary align="center"><h3 align="center">Repos</h3></summary>
+	<div align="center">
+		<a href="https://github.com/DXS-GROUP/CodeKeeper">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=CodeKeeper&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/Nighty3098/TechSupportBot">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TechSupportBot&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/DXS-GROUP/FileEncrypt">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXS-GROUP&repo=FileEncrypt&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/DXS-GROUP/FinanceTrackerBot">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FinanceTrackerBot&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/Nighty3098/Nighty3098.github.io">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=Nighty3098.github.io&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/Nighty3098/TGSB">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TGSB&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/Nighty3098/saikt_bot">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=saikt_bot&theme=radical" />
+		</a>
+		<br><br>
+		<a href="https://github.com/Nighty3098/DevDotfiles">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=DevDotfiles&theme=radical" />
+		</a>
+	</div>
+</details>
+
+<br><br><br><br>
+
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Nighty3098/Nighty3098/0a26f0c1a4845e0f6fc3afbd4ba47d43744b1f20/gray0_ctp_on_line.svg?raw=true" />
 </div>
