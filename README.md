@@ -7,15 +7,18 @@
     <br><br>
     <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi 👻</h1>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
-    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
-    <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a>
-    <br>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a>
-    <br>
-    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="55%" /></a>
-    <br>
 </div>
 
+<img src="2.gif" align="right" width="40%"/> 
+
+<div align="left">
+    <br><br><br>
+    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
+    <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a><br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a><br>
+    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="55%" /></a>
+    <br><br><br><br>
+</div>
 
 <div align="center">
     <h3 align="center">Contact with me</h3>
@@ -25,6 +28,20 @@
     <br><br>
 </div>
 
+<details align="center">
+	<summary align="center"><h3>Currently working on</h3></summary>
+    <div align="center">
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=dark)](https://github.com/DXS-GROUP/CodeKeeper)
+
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=dark)](https://github.com/DXS-GROUP/FileEncrypt)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=dark)](https://github.com/DXS-GROUP/FinanceTrackerBot)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=dark)](https://github.com/Nighty3098/TGSB)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=dark)](https://github.com/Nighty3098/TechSupportBot)
+
+    </div>
+</details>
 
 <details align="center">
 	<summary align="center"><h3 align="center">Skills</h3></summary>
@@ -82,45 +99,8 @@
 	</div>
 </details>
 
-<details align="center">
-	<summary align="center"><h3 align="center">Repos</h3></summary>
-	<div align="center">
-		<a href="https://github.com/DXS-GROUP/CodeKeeper">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=CodeKeeper&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/Nighty3098/TechSupportBot">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TechSupportBot&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/DXS-GROUP/FileEncrypt">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXS-GROUP&repo=FileEncrypt&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/DXS-GROUP/FinanceTrackerBot">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FinanceTrackerBot&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/Nighty3098/Nighty3098.github.io">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=Nighty3098.github.io&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/Nighty3098/TGSB">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TGSB&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/Nighty3098/saikt_bot">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=saikt_bot&theme=radical" />
-		</a>
-		<br><br>
-		<a href="https://github.com/Nighty3098/DevDotfiles">
-		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=DevDotfiles&theme=radical" />
-		</a>
-	</div>
-</details>
-
-<br><br><br><br>
+<br><br>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Nighty3098/Nighty3098/0a26f0c1a4845e0f6fc3afbd4ba47d43744b1f20/gray0_ctp_on_line.svg?raw=true" />
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
