@@ -12,7 +12,7 @@
 <img src="2.gif" align="right" width="40%"/> 
 
 <div align="left">
-    <br><br><br>
+    <br><br>
     <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
     <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a><br>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a><br>
@@ -22,9 +22,9 @@
 
 <div align="center">
     <h3 align="center">Contact with me</h3>
-    <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="50px" /></a>
-    <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="50px" /></a>
-    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="50px" /></a>
+    <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" style="margin: 10px;" /></a>
+    <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="60px" style="margin: 10px;"/></a>
+    <a href="https://www.reddit.com/user/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="60px" style="margin: 10px;"/></a>
     <br><br>
 </div>
 
@@ -81,13 +81,13 @@
 <details align="center">
 <summary><h3>GitHub Stats</h3></summary>
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" alt="reimaginedreadme" width="80%" />
+    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" alt="reimaginedreadme" width="90%" />
     <br><br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="70%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=radical&layout=compact" width="35%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="80%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
 <br>
 </div>
 </details>
@@ -95,12 +95,12 @@
 <details align="center">
 	<summary align="center"><h3 align="center">Wakatime</h3></summary>
 	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=transparent&layout=compact&border_radius=20" />
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=github_dark&layout=compact&border_radius=20" />
 	</div>
 </details>
 
 <br><br>
 
 <div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </div>
