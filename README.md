@@ -20,6 +20,8 @@
     <br><br><br><br>
 </div>
 
+<a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" alt="GitRoll Profile Badge" width="100%"/></a>
+
 <div align="center">
     <h3 align="center">Contact with me</h3>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" style="margin: 10px;" /></a>
@@ -32,15 +34,15 @@
 	<summary align="center"><h3>Currently working on</h3></summary>
     <div align="center">
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=dark)](https://github.com/DXS-GROUP/CodeKeeper)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal)](https://github.com/DXS-GROUP/CodeKeeper)
 
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FileEncrypt)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FinanceTrackerBot)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=dark)](https://github.com/DXS-GROUP/FileEncrypt)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=dark)](https://github.com/DXS-GROUP/FinanceTrackerBot)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=dark)](https://github.com/Nighty3098/TGSB)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=dark)](https://github.com/Nighty3098/TechSupportBot)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=light&style=horizontal)](https://github.com/Nighty3098/TGSB)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=light&style=horizontal)](https://github.com/Nighty3098/TechSupportBot)
 
-    </div>
+</div>
 </details>
 
 <details align="center">
