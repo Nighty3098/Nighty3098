@@ -5,8 +5,7 @@
     <br><br>
 	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
     <br><br>
-    <h1 align="center" style="text-decoration: none; font-size: 50px;">Hi 👻</h1>
-    <h3 align="center" style="text-decoration: none; font-size: 21px;">I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
+    <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
 
 <img src="2.gif" align="right" width="40%"/> 
@@ -20,7 +19,9 @@
     <br><br><br><br>
 </div>
 
-<a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" alt="GitRoll Profile Badge" width="100%"/></a>
+<div align="center">
+    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" alt="GitRoll Profile Badge" width="80%"/></a>
+</div>
 
 <div align="center">
     <h3 align="center">Contact with me</h3>
@@ -100,9 +101,3 @@
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=github_dark&layout=compact&border_radius=20" />
 	</div>
 </details>
-
-<br><br>
-
-<div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
-</div>
