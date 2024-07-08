@@ -1,0 +1,34 @@
+import telebot
+from telebot import types
+
+bot = telebot.TeleBot('7228404479:AAFe7gFUxQlMbAd01tCJmlMTxlyhNSxV0GI')
+
+@bot.message_handler(commands=['start'])
+def main(message):
+    markup = types.InlineKeyboardMarkup(row_width=1)
+    item = types.InlineKeyboardButton('Расписание', callback_data='schedule')
+    item1 = types.InlineKeyboardButton('Связь с нами', callback_data='contact_us')
+    markup.add(item, item1)
+    bot.send_message(message.chat.id, 'Привет!', reply_markup=markup)
+
+@bot.callback_query_handler(func=lambda call:True)
+def callback(call):
+    if call.message:
+        if call.data == 'schedule':
+            markup = types.InlineKeyboardMarkup(row_width=1)
+            item2 = types.InlineKeyboardButton('Назад', callback_data='back')
+            markup.add(item2)
+            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.id, text='Ну вот:', reply_markup=markup)
+        elif call.data == 'contact_us':
+            markup = types.InlineKeyboardMarkup(row_width=1)
+            item2 = types.InlineKeyboardButton('Назад', callback_data='back')
+            markup.add(item2)
+            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.id, text='Ну тоже вот:', reply_markup=markup)
+        elif call.data == 'back':
+            markup = types.InlineKeyboardMarkup(row_width=1)
+            item = types.InlineKeyboardButton('Расписание', callback_data='schedule')
+            item1 = types.InlineKeyboardButton('Связь с нами', callback_data='contact_us')
+            markup.add(item, item1)
+            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.id, text='Привет!', reply_markup=markup)
+
+bot.polling(none_stop=True)
