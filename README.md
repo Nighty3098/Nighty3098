@@ -35,11 +35,10 @@
 	<summary align="center"><h3>Currently working on</h3></summary>
     <div align="center">
 
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/PassSafe&mode=light&style=horizontal)](https://github.com/Nighty3098/PassSafe)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal)](https://github.com/DXS-GROUP/CodeKeeper)
-
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FileEncrypt)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FinanceTrackerBot)
-
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=light&style=horizontal)](https://github.com/Nighty3098/TGSB)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=light&style=horizontal)](https://github.com/Nighty3098/TechSupportBot)
 
