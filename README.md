@@ -100,3 +100,8 @@
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=github_dark&layout=compact&border_radius=20" />
 	</div>
 </details>
+
+<br><br><br><br>
+<div align="center">
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br><br>
+</div>
