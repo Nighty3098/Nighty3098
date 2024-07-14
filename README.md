@@ -8,10 +8,11 @@
     <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
 
-<img src="2.gif" align="right" width="40%"/> 
+<img src="1.png" align="right" width="40%"/> 
 
 <div align="left">
     <br><br>
+    <a href="https://t.me/DXS_TechSupport_bot"><img src="TechSupport.png" width="55%" /></a>
     <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
     <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a><br>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a><br>
