@@ -1,23 +1,23 @@
 
 <div align="center">
     <br><br>
-    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="git_header.png" width="96%"/></a>
+    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="resources/git_header.png" width="96%"/></a>
     <br><br>
 	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
     <br><br>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
 
-<img src="1.png" align="right" width="40%"/> 
+<img src="resources/1.png" align="right" width="40%"/> 
 
 <div align="left">
-    <br><br>
-    <a href="https://t.me/DXS_TechSupport_bot"><img src="TechSupport.png" width="55%" /></a>
-    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
-    <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a><br>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a><br>
-    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="55%" /></a>
-    <br><br><br><br>
+    <a href="https://t.me/DXS_TechSupport_bot"><img src="resources/TechSupport.png" width="55%" /></a>
+    <a href="https://github.com/DXS-GROUP"><img src="resources/OrganizationButton.png" width="55%" /></a>
+    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="resources/GitRollProfileButton.png" width="55%"/></a><br>
+    <a href="https://kwork.ru/user/nighty_3098"><img src="resources/FreelanceButton.png" width="55%" /></a><br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="resources/DiscordServerButton.png" width="55%"/></a><br>
+    <a href="https://nighty3098.github.io"><img src="resources/PortfolioButton.png" width="55%" /></a>
+    <br><br><br>
 </div>
 
 <div align="center">
