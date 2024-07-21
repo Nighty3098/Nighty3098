@@ -5,23 +5,32 @@
     <br><br>
 	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
     <br><br>
-    <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. junior c++/python developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
+    <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. mid c++/python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
 
-<img src="1.png" align="right" width="40%"/> 
+
+<div align="center">
+    <img src="1.png" align="right" width="35%"/> 
+</div>
 
 <div align="left">
-    <a href="https://t.me/DXS_TechSupport_bot"><img src="TechSupport.png" width="55%" /></a>
-    <a href="https://github.com/DXS-GROUP"><img src="OrganizationButton.png" width="55%" /></a>
-    <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="55%"/></a><br>
-    <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="55%" /></a><br>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="55%"/></a><br>
-    <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="55%" /></a>
-    <br><br><br>
+    <div align="center">
+        <br>
+        <a href="https://t.me/DXS_TechSupport_bot"><img src="TechSupport.png" width="40%" /></a>
+        <a href="https://github.com/DXS-GROUP"><img src="OrganizationButton.png" width="40%" /></a>
+        <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="40%"/></a><br>
+        <a href="https://kwork.ru/user/nighty_3098"><img src="FreelanceButton.png" width="40%" /></a><br>
+        <a href="https://discord.gg/tnHSEc2cZv"><img src="DiscordServerButton.png" width="40%"/></a><br>
+        <a href="https://nighty3098.github.io"><img src="PortfolioButton.png" width="40%" /></a>
+        <br><br><br>
+    </div>
 </div>
 
 <div align="center">
-    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uABMWRQCLLCOCLxOiodmTVQis29q1" alt="GitRoll Profile Badge" width="80%"/></a>
+    <h3>Please support my project with a star : </h3>
+    <a href="https://github.com/Nighty3098/CodeKeeper">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal" />
+    </a>
 </div>
 
 <div align="center">
@@ -33,21 +42,25 @@
 </div>
 
 <details align="center">
-	<summary align="center"><h3>Currently working on</h3></summary>
+	<summary align="center">Currently working on</summary>
     <div align="center">
+    <br>
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/PassSafe&mode=light&style=horizontal)](https://github.com/Nighty3098/PassSafe)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal)](https://github.com/DXS-GROUP/CodeKeeper)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FileEncrypt)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FinanceTrackerBot)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=light&style=horizontal)](https://github.com/Nighty3098/TGSB)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=light&style=horizontal)](https://github.com/Nighty3098/TechSupportBot)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/PassSafe&mode=light&style=horizontal)](https://github.com/Nighty3098/PassSafe)
 
 </div>
 </details>
 
+<br>
+
 <details align="center">
-	<summary align="center"><h3 align="center">Skills</h3></summary>
+	<summary align="center">Skills</summary>
+    <br>
     <h3 align="center">Langs</h3>
     <div class="languages" align="center">
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" height="50px" />
@@ -77,28 +90,36 @@
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" height="50px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" height="50px" />
     </div>
     <br>
 </details>
 
+<br>
+
 <details align="center">
-<summary><h3>GitHub Stats</h3></summary>
+<summary>GitHub Stats</summary>
+<br>
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" alt="reimaginedreadme" width="90%" />
+    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" width="70%" />
     <br><br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="80%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=github_dark&border=none&layout=compact" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="70%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
 <br>
 </div>
 </details>
 
+<br>
+
 <details align="center">
-	<summary align="center"><h3 align="center">Wakatime</h3></summary>
+	<summary align="center">Wakatime</summary>
+    <br>
 	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=github_dark&layout=compact&border_radius=20" />
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=transparent&layout=compact&border_radius=20" />
 	</div>
 </details>
 
