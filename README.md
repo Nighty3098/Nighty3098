@@ -10,7 +10,7 @@
 
 
 <div align="center">
-    <img src="1.png" align="right" width="35%"/> 
+    <img src="1.png" align="right" width="40%"/> 
 </div>
 
 <div align="left">
@@ -25,6 +25,17 @@
         <br><br><br>
     </div>
 </div>
+
+
+<img src="Toncoin.png" align="left" width="20%" style="margin-right: 5%;">
+<div align="center">
+    <h3>Support me with TON</h3>
+
+`sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
+
+<br>
+</div>
+
 
 <div align="center">
     <h3>Please support my project with a star : </h3>
