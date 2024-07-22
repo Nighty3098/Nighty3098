@@ -27,8 +27,8 @@
 </div>
 
 <br><br>
-<img src="Toncoin.png" align="left" width="15%" style="margin-right: 5%;">
 <div align="center">
+    <img src="Toncoin.png" align="center" width="10%">
     <h3>Support me with TON</h3>
 
 `UQCF-sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
