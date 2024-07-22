@@ -31,7 +31,7 @@
 <div align="center">
     <h3>Support me with TON</h3>
 
-`sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
+`UQCF-sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
 
 <br>
 </div>
