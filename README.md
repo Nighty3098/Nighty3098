@@ -1,7 +1,7 @@
 
 <div align="center">
     <br><br>
-    <a href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1" target="_blank"><img src="git_header.png" width="96%"/></a>
+    <a href="" target="_blank"><img src="git_header.png" width="96%"/></a>
     <br><br>
 	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
     <br><br>
