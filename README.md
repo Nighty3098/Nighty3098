@@ -29,11 +29,7 @@
 
 <br><br>
 <div align="center">
-<<<<<<< Updated upstream
-    <img src="Toncoin.png" align="center" width="10%">
-=======
     <img src="Toncoin.png" align="center" width="5%">
->>>>>>> Stashed changes
     <h3>Support me with TON</h3>
 
 `UQCF-sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
