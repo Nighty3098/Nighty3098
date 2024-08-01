@@ -4,10 +4,11 @@
     <a href="" target="_blank"><img src="git_header.png" width="96%"/></a>
     <br><br>
 	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
+    <br>
+    <a href="https://wakatime.com/@018e8f78-65a7-4aa8-8c67-51796499853b"><img src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge" style="border-radius: 50vh"/></a>
     <br><br>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. mid c++/python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
-
 
 <div align="center">
     <img src="1.png" align="right" width="40%"/> 
@@ -28,20 +29,16 @@
 
 <br><br>
 <div align="center">
+<<<<<<< Updated upstream
     <img src="Toncoin.png" align="center" width="10%">
+=======
+    <img src="Toncoin.png" align="center" width="5%">
+>>>>>>> Stashed changes
     <h3>Support me with TON</h3>
 
 `UQCF-sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
 
 <br>
-</div>
-<br><br>
-
-<div align="center">
-    <h3>Please support my project with a star : </h3>
-    <a href="https://github.com/Nighty3098/CodeKeeper">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal" />
-    </a>
 </div>
 
 <div align="center">
@@ -52,23 +49,7 @@
     <br><br>
 </div>
 
-<details align="center">
-	<summary align="center">Currently working on</summary>
-    <div align="center">
-    <br>
-
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/CodeKeeper&mode=light&style=horizontal)](https://github.com/DXS-GROUP/CodeKeeper)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FileEncrypt&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FileEncrypt)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/DXS-GROUP/FinanceTrackerBot&mode=light&style=horizontal)](https://github.com/DXS-GROUP/FinanceTrackerBot)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TGSB&mode=light&style=horizontal)](https://github.com/Nighty3098/TGSB)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/TechSupportBot&mode=light&style=horizontal)](https://github.com/Nighty3098/TechSupportBot)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Nighty3098/PassSafe&mode=light&style=horizontal)](https://github.com/Nighty3098/PassSafe)
-
-</div>
-</details>
-
 <br>
-
 <details align="center">
 	<summary align="center">Skills</summary>
     <br>
@@ -105,6 +86,20 @@
     </div>
     <br>
 </details>
+<br>
+
+<details align="center">
+	<summary align="center">My repositories</summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=CodeKeeper&theme=github_dark)](https://github.com/Nighty3098/CodeKeeper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TechSupportBot&theme=github_dark)](https://github.com/Nighty3098/TechSupportBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=PassSafe&theme=github_dark)](https://github.com/Nighty3098/PassSafe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=Nighty3098.github.io&theme=github_dark)](https://github.com/Nighty3098/Nighty3098.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TGSB&theme=github_dark)](https://github.com/Nighty3098/TGSB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FinanceTrackerBot&theme=github_dark)](https://github.com/Nighty3098/FinanceTrackerBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FileEncrypt&theme=github_dark)](https://github.com/Nighty3098/FileEncrypt)
+
+</details>
 
 <br>
 
@@ -112,29 +107,22 @@
 <summary>GitHub Stats</summary>
 <br>
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20&" width="70%" />
-    <br><br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="70%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
+    <img src="https://myreadme.vercel.app/api/embed/Nighty3098?panels=userstatistics,commitgraph,toplanguages,toprepositories&border_radius=20" width="70%" />
     <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=transparent&border=none&layout=compact" width="30%" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nighty3098&border_radius=20&border_color=61dafb&theme=default&border=none&layout=compact" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nighty3098&border_radius=20&border_color=61dafb&theme=default&border=none&layout=compact" width="30%" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=default&border=none&layout=compact" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nighty3098&border_radius=20&border_color=61dafb&theme=default&border=none&layout=compact" width="30%" />
+
 <br>
 </div>
 </details>
 
 <br>
 
-<details align="center">
-	<summary align="center">Wakatime</summary>
-    <br>
-	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018e8f78-65a7-4aa8-8c67-51796499853b&theme=transparent&layout=compact&border_radius=20" />
-	</div>
-</details>
-
-<br><br><br><br>
+<br>
 <div align="center">
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br><br>
 </div>
