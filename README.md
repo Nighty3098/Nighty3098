@@ -9,6 +9,8 @@
     <br><br>
 </div>
 
+<br><br>
+
 <div align="center">
     <img src="1.png" align="right" width="35%"/> 
 </div>
@@ -36,6 +38,8 @@
 <br>
 </div>
 
+<br><br>
+
 <div align="center">
     <h3 align="center">Contact with me</h3>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" style="margin: 10px;" /></a>
@@ -44,6 +48,8 @@
     <a href="https://signal.me/#eu/XJMqmO9JXZQCwYJIpzjOS741ZnGsLYOQhGqMfpS4lB-8PTSQVmRAbqFIvOrepYiK" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_signal.png?raw=true" width="60px" style="margin: 10px;"/></a>
     <br><br>
 </div>
+
+<br><br>
 
 <br>
 <details align="center">
@@ -115,10 +121,3 @@
 </div>
 </details>
 
-<br>
-
-<br>
-<div align="center">
-    <a href="https://wakatime.com/@018e8f78-65a7-4aa8-8c67-51796499853b"><img src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge" style="border-radius: 50vh"/></a><br><br>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br><br>
-</div>
