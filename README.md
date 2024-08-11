@@ -3,15 +3,11 @@
     <br><br>
     <a href="" target="_blank"><img src="git_header.png" width="96%"/></a>
     <br><br>
-	<a href="https://nighty3098.github.io"><img src="https://github-widgetbox.vercel.app/api/profile?username=Nighty3098&data=followers,repositories,stars,commits&theme=darkmode" /></a>
-    <br>
-    <a href="https://wakatime.com/@018e8f78-65a7-4aa8-8c67-51796499853b"><img src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge" style="border-radius: 50vh"/></a>
-    <br><br>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. mid c++/python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3><br>
 </div>
 
 <div align="center">
-    <img src="1.png" align="right" width="40%"/> 
+    <img src="1.png" align="right" width="35%"/> 
 </div>
 
 <div align="left">
@@ -120,5 +116,6 @@
 
 <br>
 <div align="center">
+    <a href="https://wakatime.com/@018e8f78-65a7-4aa8-8c67-51796499853b"><img src="https://wakatime.com/badge/user/018e8f78-65a7-4aa8-8c67-51796499853b.svg?style=for-the-badge" style="border-radius: 50vh"/></a>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://invidget.switchblade.xyz/r8jWX8ugDd" style="border-radius: 15px;"/></a><br><br>
 </div>
