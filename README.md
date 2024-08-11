@@ -88,19 +88,6 @@
     </div>
     <br>
 </details>
-<br>
-
-<details align="center">
-	<summary align="center">My repositories</summary>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=CodeKeeper&theme=github_dark)](https://github.com/Nighty3098/CodeKeeper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TechSupportBot&theme=github_dark)](https://github.com/Nighty3098/TechSupportBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=Nighty3098.github.io&theme=github_dark)](https://github.com/Nighty3098/Nighty3098.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=TGSB&theme=github_dark)](https://github.com/Nighty3098/TGSB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FinanceTrackerBot&theme=github_dark)](https://github.com/Nighty3098/FinanceTrackerBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nighty3098&repo=FileEncrypt&theme=github_dark)](https://github.com/Nighty3098/FileEncrypt)
-
-</details>
 
 <br>
 
