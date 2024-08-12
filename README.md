@@ -16,8 +16,7 @@
 </div>
 
 <div align="left">
-    <div align="center">
-        <br>
+    <div align="center">
         <a href="https://t.me/DXS_TechSupport_bot"><img src="TechSupport.png" width="40%" /></a>
         <a href="https://github.com/DXS-GROUP"><img src="OrganizationButton.png" width="40%" /></a>
         <a align="center" href="https://gitroll.io/profile/uABMWRQCLLCOCLxOiodmTVQis29q1"><img src="GitRollProfileButton.png" width="40%"/></a><br>
