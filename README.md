@@ -23,12 +23,12 @@
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_python.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" height="50px" />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_bash.png?raw=true" height="50px" />
     </div>
     <br>
     <div class="tools" align="center">
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkdrop.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_obsidian.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_notion.png?raw=true" height="50px" />
