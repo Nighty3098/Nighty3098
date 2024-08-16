@@ -1,7 +1,8 @@
 <div align="center">
     <br><br>
-    <a href="" target="_blank"><img src="git_header.png" width="96%"/></a>
-    <br><br>
+    <a href="" target="_blank"><img src="header.png" width="96%"/></a>
+    <br>
+    <br>
     <h3 align="center" style="text-decoration: none; font-size: 21px;">Hi 👻<br>I am a 17 y.o. mid c++/python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api. </h3>
     <br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> Tech Support <br> </kbd></a> | 
