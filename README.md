@@ -28,20 +28,20 @@
     </div>
     <br>
     <div class="tools" align="center">
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkscape.png?raw=true" height="50px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blender.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_obsidian.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_notion.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_codekeeper.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkscape.png?raw=true" height="50px" />
-        <br>
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" height="50px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" height="50px" />
     </div>
     <br><br>
@@ -50,6 +50,7 @@
 <details align="center">
     <summary>Contacts</summary>
     <br><br>
+    <a href="https://dev.to/nighty3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_dev.png?raw=true" width="60px" style="margin: 10px;" /></a>
     <a href="https://t.me/Night3098" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" style="margin: 10px;" /></a>
     <a href="https://discord.gg/#9707" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="60px" style="margin: 10px;"/></a>
     <a href="https://www.reddit.com/user/DEVELOPER0x31/" target="blank"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="60px" style="margin: 10px;"/></a>
