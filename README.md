@@ -1,10 +1,10 @@
 <div align="center">
     <br><br>
     <a href="" target="_blank"><img src="header.png" width="96%"/></a>
-    <br>
-    <br>
+    <!---<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nighty3098&theme=lax&pixelate_avatar=false" />--->
+    <br><br><br>
 I am a 17 y.o. mid C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
-    <br><br>
+    <br><br><br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> Tech Support <br> </kbd></a> 
     <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> Discord Server <br> </kbd></a> 
     <a href="https://github.com/DXS-GROUP"><kbd> <br> My Organization <br> </kbd></a> 
@@ -12,7 +12,14 @@ I am a 17 y.o. mid C / C++ / Python backend developer and freelancer from Novosi
     <a href="https://dev.to/nighty3098"><kbd> <br> My blog <br> </kbd></a>
 </div>
 
-<br>
+<br><br>
+
+<details align="center">
+	<summary>Git Stats</summary>
+	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nighty3098&theme=tokyonight&hide_border=true" /><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Nighty3098&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br><br>
+</details>
 
 <details align="center">
 	<summary align="center">Skills</summary>
