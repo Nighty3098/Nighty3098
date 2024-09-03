@@ -3,7 +3,7 @@
     <a href="" target="_blank"><img src="header.png" width="96%"/></a>
     <!---<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nighty3098&theme=lax&pixelate_avatar=false" />--->
     <br><br><br>
-I am a 17 y.o. mid C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
+I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
     <br><br><br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a> 
     <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a> 
