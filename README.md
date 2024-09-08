@@ -6,9 +6,9 @@
     <br><br>
 I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
     <br><br><br>
-    <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a> 
-    <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a> 
-    <a href="https://nighty3098.github.io/"><kbd> <br> ~ My website ~ <br> </kbd></a> 
+    <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a> | 
+    <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a> | 
+    <a href="https://nighty3098.github.io/"><kbd> <br> ~ My website ~ <br> </kbd></a> | 
     <a href="https://dev.to/nighty3098"><kbd> <br> ~ My blog ~ <br> </kbd></a>
 </div>
 
