@@ -36,8 +36,6 @@ I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirs
     </div>
     <br>
     <div class="tools" align="center">
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkscape.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blender.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_obsidian.png?raw=true" height="50px" />
@@ -45,6 +43,7 @@ I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirs
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_codekeeper.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
 	    <br />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_docker.png?raw=true" width="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
