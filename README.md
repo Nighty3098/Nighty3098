@@ -1,8 +1,9 @@
 <div align="center">
     <br><br>
     <a href="" target="_blank"><img src="header.png" width="96%"/></a>
+    <img src="https://visitcount.itsvg.in/api?id=Nighty3098&pretty=true&icon=4&color=5" />
     <!---<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nighty3098&theme=lax&pixelate_avatar=false" />--->
-    <br><br><br>
+    <br><br>
 I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
     <br><br><br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a> 
@@ -16,8 +17,7 @@ I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirs
 <details align="center">
 	<summary>Git Stats</summary>
 	<br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nighty3098&theme=tokyonight&hide_border=true" /><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Nighty3098&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br><br>
+	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&theme=tokyonight&border_width=0&border_radius=15&hide_border=true">
 </details>
 
 <details align="center">
@@ -44,6 +44,7 @@ I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirs
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_notion.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_codekeeper.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
+	    <br />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
