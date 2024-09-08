@@ -1,7 +1,7 @@
 <div align="center">
     <br><br>
-    <a href="" target="_blank"><img src="header.png" width="96%"/></a>
-    <img src="https://visitcount.itsvg.in/api?id=Nighty3098&pretty=true&icon=4&color=5" />
+    <img src="https://github.com/user-attachments/assets/8cd6a5a9-c0b2-42a9-897f-8ab681de9ad2" width="90%" />
+    <img src="https://visitcount.itsvg.in/api?id=Nighty3098&pretty=true&icon=4&color=6" />
     <!---<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nighty3098&theme=lax&pixelate_avatar=false" />--->
     <br><br>
 I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
