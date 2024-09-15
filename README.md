@@ -17,7 +17,10 @@ I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirs
 <details align="center">
 	<summary>Git Stats</summary>
 	<br>
-	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&theme=tokyonight&border_width=0&border_radius=15&hide_border=true">
+	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&bg_color=0A0909&border_radius=8&title_color=f1ffff&icon_color=ffffff&text_color=909090&hide_border=true" />
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighty3098&layout=compact&show_icons=true&bg_color=0A0909&border_radius=8&title_color=f1ffff&icon_color=ffffff&text_color=909090&hide_border=true&langs_count=8&card_width=420px" />
+
 </details>
 
 <details align="center">
