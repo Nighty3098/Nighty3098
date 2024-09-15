@@ -1,18 +1,17 @@
 <div align="center">
     <br><br>
-    <img src="https://github.com/user-attachments/assets/8cd6a5a9-c0b2-42a9-897f-8ab681de9ad2" width="90%" />
-    <img src="https://visitcount.itsvg.in/api?id=Nighty3098&pretty=true&icon=4&color=6" />
-    <!---<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nighty3098&theme=lax&pixelate_avatar=false" />--->
-    <br><br>
-I am a 17 y.o. C / C++ / Python backend developer and freelancer from Novosibirsk. I have been developing for 4 years and working with gtk, qt, telegram-api.
-    <br><br><br>
+    <img src="https://github.com/user-attachments/assets/223deb42-9681-4e55-a098-3df0b242344c" />
+    <br>
+    <img src="https://github.com/user-attachments/assets/828be0fe-b807-43fe-87e3-4aab561c12f0" width="70%" />
+    <br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a> | 
     <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a> | 
     <a href="https://nighty3098.github.io/"><kbd> <br> ~ My website ~ <br> </kbd></a> | 
     <a href="https://dev.to/nighty3098"><kbd> <br> ~ My blog ~ <br> </kbd></a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 <details align="center">
 	<summary>Git Stats</summary>
