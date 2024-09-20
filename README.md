@@ -1,5 +1,5 @@
 <div align="center">
-    <br><br>
+    <br>
     <img src="https://github.com/user-attachments/assets/496ffdba-d8b1-4672-ac3b-dd547778692b" />
     <br>
     <img src="https://github.com/user-attachments/assets/4f54f8eb-8106-4174-8544-3f6a64558fd4" width="65%" />
@@ -10,7 +10,6 @@
     <a href="https://dev.to/nighty3098"><kbd> <br> ~ My blog ~ <br> </kbd></a>
 </div>
 
-<br>
 <br>
 
 <details align="center">
@@ -71,7 +70,7 @@
 <details align="center">
     <summary>Support Me</summary>
     <br><br>
-    <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/main/badges/badges_ton.png" width="50px"/><br>
+    <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/main/badges/badges_ton.png" width="60px"/><br>
     
 `UQCReAuGPAO6NGdSmzYwbejJIozmBuD51SfC_4vxqnNTLN_E`
     
