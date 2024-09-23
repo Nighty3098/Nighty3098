@@ -72,6 +72,6 @@
     <br><br>
     <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/main/badges/badges_ton.png" width="60px"/><br>
     
-`UQCReAuGPAO6NGdSmzYwbejJIozmBuD51SfC_4vxqnNTLN_E`
+`UQBz1zAJyn9j87nHPyAkmbOsjC6ag7gIwKIXpgAeCIv-YW3O`
     
 </details>
