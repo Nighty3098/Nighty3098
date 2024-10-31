@@ -1,8 +1,6 @@
 <div align="center">
     <br>
-    <img src="https://github.com/user-attachments/assets/496ffdba-d8b1-4672-ac3b-dd547778692b" />
-    <br>
-    <img src="https://github.com/user-attachments/assets/4f54f8eb-8106-4174-8544-3f6a64558fd4" width="65%" />
+    <img src="https://github.com/user-attachments/assets/a9de4e73-786b-4287-b91a-c7fbac6a7231" />
     <br>
     <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a>  
     <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a>  
