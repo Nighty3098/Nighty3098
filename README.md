@@ -1,21 +1,21 @@
 <div align="center">
     <br>
     <img src="https://github.com/user-attachments/assets/a9de4e73-786b-4287-b91a-c7fbac6a7231" />
-    <br>
-    <a href="https://t.me/DXS_TechSupport_bot"><kbd> <br> ~ Tech Support ~ <br> </kbd></a>  
-    <a href="https://discord.gg/tnHSEc2cZv"><kbd> <br> ~ Discord Server ~ <br> </kbd></a>  
-    <a href="https://nighty3098.github.io/"><kbd> <br> ~ My website ~ <br> </kbd></a>  
-    <a href="https://dev.to/nighty3098"><kbd> <br> ~ My blog ~ <br> </kbd></a>
+    <br><br>
+    <a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true" height="35px"/></a>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="35px" /></a>  
+    <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="35px" /></a>  
+    <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="35px" /></a>
 </div>
 
-<br>
+<br><br><br>
 
 <details align="center">
 	<summary>Git Stats</summary>
 	<br>
-	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&bg_color=0A0909&border_radius=8&title_color=f1ffff&icon_color=ffffff&text_color=909090&hide_border=true" />
+	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&hide=prs_merged,contributed&show=issues_closed" />
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighty3098&layout=compact&show_icons=true&bg_color=0A0909&border_radius=8&title_color=f1ffff&icon_color=ffffff&text_color=909090&hide_border=true&langs_count=8&card_width=420px" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighty3098&layout=compact&show_icons=true&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&langs_count=5&card_width=420px" />
 
 </details>
 
@@ -35,20 +35,11 @@
     </div>
     <br>
     <div class="tools" align="center">
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linux.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_windows.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_obsidian.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_notion.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_codekeeper.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_replit.png?raw=true" height="50px" />
-	    <br />
 	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_docker.png?raw=true" width="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_vscode.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_nvim.png?raw=true" height="50px" />
         <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" height="50px" />
     </div>
     <br><br>
