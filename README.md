@@ -2,10 +2,11 @@
     <br>
     <img src="https://github.com/user-attachments/assets/a9de4e73-786b-4287-b91a-c7fbac6a7231" />
     <br><br>
-    <a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true" height="30px"/></a>
-    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
-    <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
-    <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="30px" /></a>
+    <a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true" height="35px"/></a>
+    <br>
+    <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="35px" /></a>  
+    <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="35px" /></a>  
+    <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="35px" /></a>
 </div>
 
 <br><br><br>
