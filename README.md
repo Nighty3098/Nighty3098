@@ -23,25 +23,24 @@
 
 <details align="center">
 	<summary align="center">Skills</summary>
-    <br><br>
     <div class="languages" align="center">
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_cpp.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_python.png?raw=true" height="50px" />
-	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_bash.png?raw=true" height="50px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_cpp.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_python.png?raw=true" height="60px" />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_bash.png?raw=true" height="60px" />
     </div>
     <br>
     <div class="tools" align="center">
-	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_docker.png?raw=true" width="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="50px" />
-        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" height="50px" />
+	<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_docker.png?raw=true" width="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_qt.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" height="60px" />
+        <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" height="60px" />
     </div>
     <br><br>
 </details>
