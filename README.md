@@ -6,7 +6,6 @@
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
     <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
     <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="30px" /></a>
-</div>
 
 <br>
 
@@ -65,3 +64,5 @@ UQBz1zAJyn9j87nHPyAkmbOsjC6ag7gIwKIXpgAeCIv-YW3O
 ```
     
 </details>
+
+</div>
