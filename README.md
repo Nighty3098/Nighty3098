@@ -8,7 +8,7 @@
     <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="30px" /></a>
 
 <br>
-
+<br><br>
 <details>
 	<summary>Git Stats</summary>
 	<br>
