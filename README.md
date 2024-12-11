@@ -1,7 +1,9 @@
 <div align="center">
     <br>
-    <img src="https://github.com/user-attachments/assets/2f9c795e-9836-4b34-9d6f-71d754f1e316" />
-    <br><br>
+    <img src="https://github.com/user-attachments/assets/704f8676-c108-4737-a9c3-7328d557137a" />
+    <br><br><br>
+    <img src="https://github.com/user-attachments/assets/f8158559-3a0d-4cce-8325-330e77143dcd" height="70px" />
+    <br><br><br>
     <a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true" height="30px"/></a>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
     <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
