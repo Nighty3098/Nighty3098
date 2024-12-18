@@ -1,6 +1,7 @@
 <div align="center">
     <br>
-    <img src="https://github.com/user-attachments/assets/704f8676-c108-4737-a9c3-7328d557137a" />
+    <!---<img src="https://github.com/user-attachments/assets/704f8676-c108-4737-a9c3-7328d557137a" />-->
+    <img src="https://github.com/user-attachments/assets/102e456f-e92e-48a2-b1b0-874c801b265b" />
     <br><br><br>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
     <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
@@ -11,9 +12,9 @@
 <details>
 	<summary>Git Stats</summary>
 	<br>
-	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&hide=prs_merged,contributed&show=issues_closed" />
+	<img src="https://gh-readme-profile.vercel.app/api?username=nighty3098&bg_color=070D0F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&hide=prs_merged,contributed&show=issues_closed" />
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighty3098&layout=compact&show_icons=true&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&langs_count=5&card_width=420px" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nighty3098&layout=compact&show_icons=true&bg_color=070D0F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&langs_count=5&card_width=420px" />
 
 </details>
 
