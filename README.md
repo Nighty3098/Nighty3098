@@ -1,6 +1,6 @@
 <div align="center">
     <br><br>
-    <img src="https://github.com/user-attachments/assets/d0d73c66-93ba-42b4-8211-fc4916da9596" />
+	<img src="https://github.com/user-attachments/assets/45c14ec7-872a-4364-b813-c165dfabc663" />
     <br><br><br>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
     <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
