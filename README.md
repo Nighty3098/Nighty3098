@@ -3,7 +3,7 @@
 	<img src="https://github.com/user-attachments/assets/45c14ec7-872a-4364-b813-c165dfabc663" />
     <br><br><br>
     <a href="https://discord.gg/tnHSEc2cZv"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="30px" /></a>  
-    <a href="https://nighty3098.github.io/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
+    <a href="https://nighty3098.vercel.app/"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="30px" /></a>  
     <a href="https://dev.to/nighty3098"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="30px" /></a>
 
 <br>
