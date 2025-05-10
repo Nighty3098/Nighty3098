@@ -1,7 +1,7 @@
 <div align="center">
 <br><br>
-<img src="https://github.com/user-attachments/assets/a8bb4c9a-ff99-4feb-a5e8-b8479cc86a11" width="65%" />
-<br><br><br>
+<img src="https://github.com/user-attachments/assets/a8bb4c9a-ff99-4feb-a5e8-b8479cc86a11" width="50%" />
+<br><br>
 <details>
 	<summary>Git Stats</summary>
 	<br>
