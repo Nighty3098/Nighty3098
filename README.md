@@ -4,11 +4,12 @@
 <p align="left"><strong><samp>「</samp></strong></p>
    <p align="center">
       <samp>
-         <em>Hey There!</em>
+         🌸 <em>Hey There!</em>
 	 <br/>
 	 <br/>
 	 I am Artem, a full-stack / ML developer and freelancer
-      </samp><br>
+      </samp>
+      <br><br><br>
    </p>
    <p align="center">
       <samp>
