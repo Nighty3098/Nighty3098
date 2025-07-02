@@ -4,6 +4,10 @@
 
 <img src="https://github.com/user-attachments/assets/8838927b-4184-4a21-897b-1e0dee7b5148"  width="90%" />
 
+<br />
+
+<a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing"><img src="https://github.com/user-attachments/assets/1047bc5b-31e9-45d4-901b-247f70fd4ce4" width="150px" /></a>
+
 <br /><br />
 
 <details>
