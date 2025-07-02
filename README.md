@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing"><img src="https://github.com/user-attachments/assets/1047bc5b-31e9-45d4-901b-247f70fd4ce4" width="150px" /></a>
+<a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing"><img src="https://github.com/user-attachments/assets/1047bc5b-31e9-45d4-901b-247f70fd4ce4" width="130px" /></a>
 
 <br /><br />
 
