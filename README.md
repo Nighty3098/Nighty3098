@@ -5,7 +5,7 @@
 ### `⚡ HACK THE WORLD`
 
 <br/>
-<img src="cat.gif" />
+<img src="cat.gif" width="100%"/>
 <br/><br/>
 
 <p align="center">
@@ -44,6 +44,7 @@
 </details>
 
 </div>
+
 
 
 
