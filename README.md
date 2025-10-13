@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <br/><br/><br/>
@@ -5,7 +6,7 @@
 ### `⚡ HACK THE WORLD`
 
 <br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
+<img width="1452" height="889" alt="Untitled diagram-2025-10-13-174121" src="https://github.com/user-attachments/assets/c3723716-2d39-40d4-8939-f66033bf67ba" />
 <br/><br/>
 
 <p align="center">
@@ -39,17 +40,11 @@
 </details>
 
 <details>
-<summary>🔥 LANGS</summary>
+<summary>🔥 STATS</summary>
 <br/>
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&langs=true" width="85%" />
+<br/><br/>
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
 </details>
 
 </div>
-
-
-
-
-
-
-
-
