@@ -1,11 +1,11 @@
 <div align="center">
 
-<br/><br/>
+<br/><br/><br/>
 
 ### `⚡ HACK THE WORLD`
 
 <br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=ancient&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
 <br/><br/>
 
 <p align="center">
@@ -15,11 +15,12 @@
          <a href="https://t.me/W2N3098" target="_blank">Telegram</a>
       </samp>
 </p>
-<br/><br/>
+
+<br/><br/><br/>
 
 <details>
 <summary>🍀 SKILLS</summary>
-<br/><br/>
+<br/>
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" width="50px" />
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_python.png?raw=true" width="50px" />
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="50px" />
@@ -39,11 +40,12 @@
 
 <details>
 <summary>🔥 LANGS</summary>
-<br/><br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=ancient&langs=true" width="85%" />
+<br/>
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&langs=true" width="85%" />
 </details>
 
 </div>
+
 
 
 
