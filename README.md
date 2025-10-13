@@ -6,7 +6,7 @@
 ### `⚡ HACK THE WORLD`
 
 <br/>
-<img width="1452" height="889" alt="Untitled diagram-2025-10-13-174121" src="https://github.com/user-attachments/assets/c3723716-2d39-40d4-8939-f66033bf67ba" />
+<img width="90%" alt="Untitled diagram-2025-10-13-174121" src="https://github.com/user-attachments/assets/c3723716-2d39-40d4-8939-f66033bf67ba" />
 <br/><br/>
 
 <p align="center">
@@ -48,3 +48,4 @@
 </details>
 
 </div>
+
