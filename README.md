@@ -3,11 +3,11 @@
 
 <br/><br/><br/>
 
-### `⚡ HACK THE WORLD`
+### `⚡ LET'S CREATE THE FUTURE TOGETHER`
 
 <br/>
 
-<img width="90%" alt="Untitled diagram-2025-10-13-174121" src="https://github.com/user-attachments/assets/5b36d050-8f9d-4de3-b17e-ef74fe2822a2" />
+<img src="https://github.com/user-attachments/assets/8838927b-4184-4a21-897b-1e0dee7b5148"  width="90%" />
 <br/><br/>
 
 <p align="center">
@@ -43,11 +43,10 @@
 <details>
 <summary>🔥 STATS</summary>
 <br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&langs=true" width="85%" />
-<br/><br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=waterfall&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="90%" />
+<br /><br />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&fg=%233e3e3e&bg=%23dedede&langs=true" width="90%" />
 </details>
 
 </div>
-
 
