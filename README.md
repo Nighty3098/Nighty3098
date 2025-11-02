@@ -4,7 +4,7 @@
 	<br />
    <p align="center">
       <samp>
-        <em>Hey There!</em>
+        🎃 <em>Hey There!</em>
 	 <br/>
 	 <br/>
 	 I am Artem, a full-stack developer and freelancer from Novosibirsk.
@@ -27,3 +27,4 @@
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&fg=%233e3e3e&bg=%23dedede&langs=true" width="85%" />
 </div>
 <br/><br/><br/><br/>
+
