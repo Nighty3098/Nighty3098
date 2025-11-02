@@ -1,9 +1,10 @@
 <div align="center">
 <br/><br/><br/>
-<p align="left"><strong><samp>「</samp></strong></p>
+   <hr width="50%" />
+	<br />
    <p align="center">
       <samp>
-         🌸 <em>Hey There!</em>
+        <em>Hey There!</em>
 	 <br/>
 	 <br/>
 	 I am Artem, a full-stack developer and freelancer from Novosibirsk.
@@ -18,13 +19,12 @@
          <a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing" target="_blank">Resume</a>
       </samp>
    </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+	<br />
+<hr width="50%" />
 <br/><br/>
-<details>
-<summary>🔥 git stats</summary>
 <br/>
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="90%" />
 <br /><br />
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&fg=%233e3e3e&bg=%23dedede&langs=true" width="90%" />
-</details>
 </div>
+
