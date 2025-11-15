@@ -21,11 +21,15 @@
    </p>
 	<br />
 <hr width="85%" />
-<br/><br/><br/><br/>
+<br/>
+<details>
+<summary><samp><em>GITHUB STATISTICS</em></samp></summary>
+<br/><br/><br/>
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
 <br /><br />
 <img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&langs=true" width="85%" />
 </div>
 <br/><br/><br/><br/>
+</details>
 
 
