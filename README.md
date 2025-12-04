@@ -1,6 +1,6 @@
 <div align="center">
 <br/><br/><br/>
-   <hr width="85%" />
+   <hr width="90%" />
 	<br />
    <p align="center">
       <samp>
@@ -20,16 +20,17 @@
       </samp>
    </p>
 	<br />
-<hr width="85%" />
+<hr width="90%" />
 <br/>
 <details>
 <summary><samp><em>GITHUB STATISTICS</em></samp></summary>
 <br/><br/><br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="85%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&hide_avatar=true&show=stars,followers,following,issues,commits" width="90%" />
 <br /><br />
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=simple&langs=true" width="85%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&langs=true" width="90%" />
 </div>
 <br/><br/><br/><br/>
 </details>
+
 
 
