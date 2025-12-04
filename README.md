@@ -3,10 +3,8 @@
    <hr width="90%" />
 	<br />
    <p align="center">
-      <samp>
-        🎃 <em>Hey There!</em>
-	 <br/>
-	 <br/>
+	<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&hide_avatar=true&show=stars,followers,following,issues,commits" width="90%" />
+	 <br/><br/><br/>
 	 I am Artem, a full-stack developer and freelancer from Novosibirsk.
       </samp>
       <br><br>
@@ -31,6 +29,7 @@
 </div>
 <br/><br/><br/><br/>
 </details>
+
 
 
 
