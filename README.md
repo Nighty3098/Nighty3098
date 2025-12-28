@@ -4,7 +4,7 @@
 	<br />
    <p align="center">
       <br/>
-	 I am Artem, a full-stack developer and freelancer from Novosibirsk.
+	 	I'm Artem [Artyom], I'm a 18 years old full-stack developer and freelancer from Novosibirsk. I am studying at Sibsutis at the Faculty of Network Data Transmission Technologies
       </samp>
       <br><br>
    </p>
@@ -28,6 +28,7 @@
 </div>
 <br/><br/><br/><br/>
 </details>
+
 
 
 
