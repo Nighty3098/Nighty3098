@@ -12,6 +12,8 @@
 	   🛠️ I am actively exploring the development of backend, frontend, serverless solutions.
 	   <br />
 	   I am learning how to create a clean project architecture and write high-quality code. 🔬
+	   <br /><br />
+	   Open To Work
       </samp>
       <br><br>
    </p>
@@ -20,7 +22,8 @@
          <a href="https://discord.gg/#9707" target="_blank">Discord</a> &#8226;
 		 <a href="https://t.me/Night3098" target="_blank">Telegram</a> &#8226;
          <a href="https://nighty3098.vercel.app/" target="_blank">Website</a> &#8226;
-         <a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing" target="_blank">Resume</a>
+         <a href="https://docs.google.com/document/d/1F56DLD5cfGlKVzTzlpU5TD-zoJlGTi2LhfMb9mejHe8/edit?usp=sharing" target="_blank">Resume</a> &#8226;
+		 <a href="https://kwork.ru/user/nighty_3098" target="_blank">Kwork</a>
       </samp>
    </p>
 	<br />
@@ -37,6 +40,7 @@
 </details>
 
 </b>
+
 
 
 
