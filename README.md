@@ -5,7 +5,7 @@
 	<br />
    <p align="center">
       <br/>
-	   🌇 I'm Artem, I'm a 18 years old full-stack developer and freelancer from Novosibirsk.
+	   🌇 I'm Artem, I'm a 19 years old full-stack developer and freelancer from Novosibirsk.
 	   <br />
 	   I am studying at Sibsutis at the Faculty of Network Data Transmission Technologies. 💻
 	   <br /><br />
@@ -40,6 +40,7 @@
 </details>
 
 </b>
+
 
 
 
