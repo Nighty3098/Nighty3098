@@ -4,9 +4,6 @@
    <hr width="90%" />
 	<br />
 	<br />
-	<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="75%" />
-	<br />
-	<br />
    <p align="center">
       <br/>
 	   🌇 I'm Artem, I'm a 19 years old full-stack developer and freelancer from Novosibirsk.
