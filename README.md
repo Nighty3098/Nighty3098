@@ -43,9 +43,9 @@
 <details>
 <summary><samp><em>GITHUB STATISTICS</em></samp></summary>
 <br/><br/>
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="90%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="90%" />
 <br /><br />
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=anime&langs=true" width="90%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&langs=true" width="90%" />
 </div>
 <br/><br/><br/><br/>
 </details>
