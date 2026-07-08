@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="75%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="95%" />
 <br /><br /><br />
 <p align="center">
 <samp>
@@ -12,12 +12,14 @@
 </div>
 <br/>
 
-### 📊 Latest Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Nighty3098/Portfolio/pull/3) in [Nighty3098/Portfolio](https://github.com/Nighty3098/Portfolio)
-2. 💪 Opened PR [#3](https://github.com/Nighty3098/Portfolio/pull/3) in [Nighty3098/Portfolio](https://github.com/Nighty3098/Portfolio)
-3. ❌ Closed PR [#1](https://github.com/OwlDevHub/owl_website_backend/pull/1) in [OwlDevHub/owl_website_backend](https://github.com/OwlDevHub/owl_website_backend)
-4. ❌ Closed PR [#6](https://github.com/OwlDevHub/owl_website/pull/6) in [OwlDevHub/owl_website](https://github.com/OwlDevHub/owl_website)
-5. 🚀 Published release [1.3.2-alpha](https://github.com/OwlDevHub/OWL_APP/releases/tag/1.3.2-alpha) in [OwlDevHub/OWL_APP](https://github.com/OwlDevHub/OWL_APP)
-<!--END_SECTION:activity-->
+<div align="center">
 
+Hello! I am Artem.
+
+I am 19 years old, and I spent 5 of them at the SAIKT Programming Academy, and now I am studying at<br />SibSUTIS University in Novosibirsk
+
+Stack: Python / C++ / TypeScript / React / QT / Docker / PostgreSQL.
+
+I am also interested in cybersecurity and OSINT - developing tools for both<br />offensive security and intelligence gathering.
+
+</div>
