@@ -3,16 +3,17 @@
 <br/><br/><br/>
    <hr width="90%" />
 	<br />
+	<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="90%" />
 	<br />
    <p align="center">
       <br/>
-	   🌇 I'm Artem, I'm a 19 years old full-stack developer and freelancer from Novosibirsk.
-	   <br />
-	   I am studying at Sibsutis at the Faculty of Network Data Transmission Technologies. 💻
-	   <br /><br />
-	   🛠️ I am actively exploring the development of backend, frontend, serverless solutions.
-	   <br />
-	   I am learning how to create a clean project architecture and write high-quality code. 🔬
+	Hello! I am Artem.
+	<br /><br />
+	I am 19 years old, and I spent 5 of them at the SAIKT Programming Academy, and now I am studying at SibSUTIS University in Novosibirsk, Russia, at the Faculty of Network Data Transmission Technologies.
+	<br /><br />
+	Stack: Python / C++ / TypeScript / React / QT / Docker / PostgreSQL.
+	<br /><br />
+	I am also interested in cybersecurity and OSINT - developing tools for both offensive security and intelligence gathering.
 	   <br /><br />
 	   Open To Work
       </samp>
