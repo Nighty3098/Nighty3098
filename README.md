@@ -1,7 +1,7 @@
 <b>
 <div align="center">
 <br/><br/><br/>
-   <hr width="90%" />
+   <hr width="80%" />
 	<br />
 	<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="90%" />
 	<br />
