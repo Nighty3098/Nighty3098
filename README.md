@@ -55,4 +55,9 @@
 
 ### 📊 Latest Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Nighty3098/Portfolio/pull/3) in [Nighty3098/Portfolio](https://github.com/Nighty3098/Portfolio)
+2. 💪 Opened PR [#3](https://github.com/Nighty3098/Portfolio/pull/3) in [Nighty3098/Portfolio](https://github.com/Nighty3098/Portfolio)
+3. ❌ Closed PR [#1](https://github.com/OwlDevHub/owl_website_backend/pull/1) in [OwlDevHub/owl_website_backend](https://github.com/OwlDevHub/owl_website_backend)
+4. ❌ Closed PR [#6](https://github.com/OwlDevHub/owl_website/pull/6) in [OwlDevHub/owl_website](https://github.com/OwlDevHub/owl_website)
+5. 🚀 Published release [1.3.2-alpha](https://github.com/OwlDevHub/OWL_APP/releases/tag/1.3.2-alpha) in [OwlDevHub/OWL_APP](https://github.com/OwlDevHub/OWL_APP)
 <!--END_SECTION:activity-->
