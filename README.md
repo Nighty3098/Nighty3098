@@ -23,3 +23,4 @@ Stack: Python / C++ / TypeScript / React / QT / Docker / PostgreSQL.
 I am also interested in cybersecurity and OSINT - developing tools for both<br />offensive security and intelligence gathering.
 
 </div>
+
