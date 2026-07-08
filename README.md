@@ -11,12 +11,6 @@
 </p>
 </div>
 <br/>
-<p>Hello! I am Artem.</p>
-<p>I am 19 years old, and I spent 5 of them at the SAIKT Programming Academy, and now I am studying at SibSUTIS University in Novosibirsk, Russia, at the Faculty of Network Data Transmission Technologies.</p>
-<p>Stack: Python / C++ / TypeScript / React / QT / Docker / PostgreSQL.</p>
-<p>I am also interested in cybersecurity and OSINT - developing tools for both offensive security and intelligence gathering.</p>
-<br>
-
 
 ### 📊 Latest Activity
 <!--START_SECTION:activity-->
@@ -26,3 +20,4 @@
 4. ❌ Closed PR [#6](https://github.com/OwlDevHub/owl_website/pull/6) in [OwlDevHub/owl_website](https://github.com/OwlDevHub/owl_website)
 5. 🚀 Published release [1.3.2-alpha](https://github.com/OwlDevHub/OWL_APP/releases/tag/1.3.2-alpha) in [OwlDevHub/OWL_APP](https://github.com/OwlDevHub/OWL_APP)
 <!--END_SECTION:activity-->
+
