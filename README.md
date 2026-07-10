@@ -11,16 +11,3 @@
 </p>
 </div>
 <br/>
-
-<div align="center">
-
-Hello! I am Artem.
-
-I am 19 years old, and I spent 5 of them at the SAIKT Programming Academy, and now I am studying at<br />SibSUTIS University in Novosibirsk
-
-Stack: Python / C++ / TypeScript / React / QT / Docker / PostgreSQL.
-
-I am also interested in cybersecurity and OSINT - developing tools for both<br />offensive security and intelligence gathering.
-
-</div>
-
