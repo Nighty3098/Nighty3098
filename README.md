@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=solarized&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="95%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=Nighty3098&theme=landscape_with_a_cottage&hide_avatar=true&langs=false&show=repoCount,stars,followers,issues,closedPRs,commits" width="95%" />
 <br /><br /><br />
 <p align="center">
 <samp>
