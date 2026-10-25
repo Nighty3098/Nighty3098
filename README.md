@@ -1,6 +1,6 @@
 <div align="center">
 <h3 align="left">◸</h3>
-<img src="https://github.com/user-attachments/assets/ecb43cdd-264a-42ac-8474-2ec4b0e6a092" width="100px" /><br/><br/>
+<img src="https://github.com/user-attachments/assets/ecb43cdd-264a-42ac-8474-2ec4b0e6a092" width="200px" /><br/><br/>
 Hey There!<br/><br/>
 I am Artem, a full-stack developer and freelancer from Novosibirsk.<br/><br />
 <p align="center">
